@@ -1,0 +1,9 @@
+# Django
+.venv
+__pycache__
+db.sqlite3
+
+# Next.js
+.next
+node_modules
+.env
